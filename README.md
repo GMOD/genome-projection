@@ -1,3 +1,8 @@
+
+Upgraded and moved to Java here:
+
+https://github.com/GMOD/coordinate-transform
+
 # genome-projection
 Genome projection library
 
